@@ -2,6 +2,8 @@
 
 Simple C# client for the [LIFX HTTP API](https://api.developer.lifx.com/docs/).
 
+![.NET](https://github.com/JessenMorten/LifxClient/workflows/.NET/badge.svg)
+
 ## How to use
 
 ```cs
