@@ -1,4 +1,4 @@
-# LiftClient
+# LifxClient
 
 Simple C# client for the [LIFX HTTP API](https://api.developer.lifx.com/docs/).
 

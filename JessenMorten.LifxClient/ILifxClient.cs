@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using JessenMorten.Lifx.Models;
+using JessenMorten.LifxClient.Models;
 
-namespace JessenMorten.LiftClient
+namespace JessenMorten.LifxClient
 {
     public interface ILifxClient
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JessenMorten.LiftClient", "JessenMorten.LiftClient\JessenMorten.LiftClient.csproj", "{2B29D530-7899-4E28-88D2-522A9EA86B12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JessenMorten.LifxClient", "JessenMorten.LifxClient\JessenMorten.LifxClient.csproj", "{2B29D530-7899-4E28-88D2-522A9EA86B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

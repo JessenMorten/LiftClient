@@ -1,8 +1,8 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace JessenMorten.Lifx.Models
+namespace JessenMorten.LifxClient.Models
 {
-    public class LifxGroup
+    public class LifxLocation
     {
         [JsonPropertyName("id")]
         public string Id { get; set; }

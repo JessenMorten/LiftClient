@@ -3,9 +3,9 @@ using System.Net.Http;
 using System.Net.Http.Json;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using JessenMorten.Lifx.Models;
+using JessenMorten.LifxClient.Models;
 
-namespace JessenMorten.LiftClient
+namespace JessenMorten.LifxClient
 {
     /// <summary>
     /// <see cref="LifxClient"/> provides a simple interface to communicate with version 1 of the LIFX API.

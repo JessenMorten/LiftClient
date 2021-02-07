@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace JessenMorten.Lifx.Models
+namespace JessenMorten.LifxClient.Models
 {
     public class LifxBulb
     {
